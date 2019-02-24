@@ -1,0 +1,65 @@
+# ignore Debug
+
+
+
+Debug
+
+bin
+
+
+
+# ignore .sdf file
+
+
+
+*.sdf
+
+
+
+# ignore ipch directionary
+
+
+
+ipch/
+
+
+
+# ignore .opensdf file
+
+
+
+*.opensdf
+
+
+
+# ignore .v12.suo file
+
+
+
+*.suo
+
+
+
+# ignore .v12.suo
+
+
+
+*.suo
+
+*.v12.suo
+
+
+
+
+
+
+
+
+
+# ignore .v12.suo file
+
+
+
+*.suo
+
+*.v12.suo
